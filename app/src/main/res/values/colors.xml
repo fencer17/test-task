@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/appGreen</color>
+    <color name="colorPrimaryDark">@color/appGreenDark</color>
+
+    <color name="appGreen">#0C4C4B</color>
+    <color name="appGreenDark">#4F0D4E4D</color>
+    <color name="appWhite">#EDFFFFFF</color>
+
+</resources>

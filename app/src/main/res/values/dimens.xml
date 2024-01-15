@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="default_minor_margin">2dp</dimen>
+    <dimen name="default_quarter_margin">4dp</dimen>
+    <dimen name="default_half_margin">8dp</dimen>
+    <dimen name="default_half_and_quarter_margin">12dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_margin_plus_quarter">20dp</dimen>
+    <dimen name="default_margin_plus_half">24dp</dimen>
+    <dimen name="default_double_margin">32dp</dimen>
+    <dimen name="default_triple_margin">48dp</dimen>
+    <dimen name="margin_56">56dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_72">72dp</dimen>
+    <dimen name="margin_90">90dp</dimen>
+    <dimen name="margin_96">96dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+
+    <dimen name="default_quarter_padding">4dp</dimen>
+    <dimen name="default_half_padding">8dp</dimen>
+    <dimen name="default_half_and_quarter_padding">12dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_padding_plus_quarter">20dp</dimen>
+    <dimen name="default_padding_plus_half">24dp</dimen>
+    <dimen name="default_double_padding">32dp</dimen>
+    <dimen name="default_triple_padding">48dp</dimen>
+
+    <dimen name="cardview_corner_radius">6dp</dimen>
+    <dimen name="cardview_elevation">4dp</dimen>
+
+    <dimen name="default_text_size_small">12sp</dimen>
+    <dimen name="default_text_size">16sp</dimen>
+    <dimen name="default_text_size_large">18sp</dimen>
+    <dimen name="default_text_size_xlarge">24sp</dimen>
+    <dimen name="default_text_size_xxlarge">28sp</dimen>
+
+</resources>
